@@ -1,6 +1,7 @@
 # 게임 종료 처리
 # 성공 : 화면 내에 모든 버블이 사라지면 성공
 # 실패 : 바닥에 어떤 정해진 높이보다 버블이 낮게 내려오면 실패
+# 추후 stage 2 ~ 예정
 import os, random, math
 import pygame
 
